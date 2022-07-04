@@ -1,0 +1,17 @@
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Infrastructure.deps.json
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Infrastructure.runtimeconfig.json
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Infrastructure.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ref\ConsultorioDeSeguros.Infrastructure.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Infrastructure.pdb
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Domain.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\bin\Release\net6.0\ConsultorioDeSeguros.Domain.pdb
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.csproj.AssemblyReference.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.AssemblyInfoInputs.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.AssemblyInfo.cs
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.csproj.CopyComplete
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ref\ConsultorioDeSeguros.Infrastructure.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.pdb
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Infrastructure\obj\Release\net6.0\ConsultorioDeSeguros.Infrastructure.genruntimeconfig.cache

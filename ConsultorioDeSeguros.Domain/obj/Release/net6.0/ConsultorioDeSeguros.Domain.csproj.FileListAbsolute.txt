@@ -1,0 +1,12 @@
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\bin\Release\net6.0\ConsultorioDeSeguros.Domain.deps.json
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\bin\Release\net6.0\ConsultorioDeSeguros.Domain.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\bin\Release\net6.0\ref\ConsultorioDeSeguros.Domain.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\bin\Release\net6.0\ConsultorioDeSeguros.Domain.pdb
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.csproj.AssemblyReference.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.AssemblyInfoInputs.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.AssemblyInfo.cs
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.csproj.CoreCompileInputs.cache
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ref\ConsultorioDeSeguros.Domain.dll
+D:\Viamatica\Projects\ConsultorioDeSeguros\ConsultorioDeSeguros.Domain\obj\Release\net6.0\ConsultorioDeSeguros.Domain.pdb

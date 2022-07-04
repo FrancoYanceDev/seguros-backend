@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e602657-3222-4a07-9059-53686db6dc8b": {
+      "ProjectGuid": "5e602657-3222-4a07-9059-53686db6dc8b",
+      "DisplayName": "ConsultorioDeSeguros.API",
+      "ColorIndex": 0
+    },
+    "417145c5-09fc-4fa7-9b64-8d140b470448": {
+      "ProjectGuid": "417145c5-09fc-4fa7-9b64-8d140b470448",
+      "DisplayName": "ConsultorioDeSeguros.Infrastructure",
+      "ColorIndex": 1
+    },
+    "3b0f3917-4444-4f85-864c-67d06a3ae36f": {
+      "ProjectGuid": "3b0f3917-4444-4f85-864c-67d06a3ae36f",
+      "DisplayName": "ConsultorioDeSeguros.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
